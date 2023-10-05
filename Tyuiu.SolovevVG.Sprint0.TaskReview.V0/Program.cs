@@ -31,7 +31,6 @@ namespace Tyuiu.SolovevVG.Sprint0.TaskReview.V0
             int x = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите значение переменной Y:");
             int y = Convert.ToInt32(Console.ReadLine());
-
             Console.WriteLine("Введите значение переменной Z:");
             int z = Convert.ToInt32(Console.ReadLine());
 
