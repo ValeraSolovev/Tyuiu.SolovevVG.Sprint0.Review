@@ -35,6 +35,7 @@ namespace Tyuiu.SolovevVG.Sprint0.TaskReview.V0
             int z = Convert.ToInt32(Console.ReadLine());
 
 
+
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
